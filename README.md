@@ -1,2 +1,3 @@
 # Koderas
-Code Review System
+Code Review System and Jira Ticket Analyzer
+
